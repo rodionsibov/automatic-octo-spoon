@@ -1,4 +1,5 @@
 # vue-reaction-timer-game
+[![Netlify Status](https://api.netlify.com/api/v1/badges/83dce6d0-1d33-47c7-af1b-8d04f4d5348c/deploy-status)](https://app.netlify.com/sites/sleepy-hugle-bce42a/deploys)
 
 ## Project setup
 ```
